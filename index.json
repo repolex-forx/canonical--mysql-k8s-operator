@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "mysql-k8s-operator",
+  "versions": [
+    {
+      "commit": "e669bb8042003a958529723209ed6a043a47160b",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:58:40.626187+00:00"
+    }
+  ]
+}
