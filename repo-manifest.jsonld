@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/mysql-k8s-operator/commit/e669bb8042003a958529723209ed6a043a47160b",
       "git:hexsha": "e669bb8042003a958529723209ed6a043a47160b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/mysql-k8s-operator/commit/296362b187aa9f044e21b7231109d3ea76c12242",
