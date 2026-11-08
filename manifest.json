@@ -1,0 +1,20 @@
+{
+  "manifest_version": "1.0",
+  "org": "canonical",
+  "repo": "mysql-k8s-operator",
+  "versions": [
+    {
+      "commit": "e669bb8042003a958529723209ed6a043a47160b",
+      "parsed_at": "2026-11-08T18:56:23.577218+00:00",
+      "filetree": "filetree/e669bb8042003a958529723209ed6a043a47160b.nq.gz",
+      "blobs": [
+        "blob/a4af287f76447afe58eeeed82b99804e1595cbc7.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
